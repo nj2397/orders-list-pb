@@ -1,0 +1,25 @@
+.input-container {
+    position: relative;
+    top: 20ch;
+    height: 20%;
+    border-radius: 10px;
+    background-image: linear-gradient(to top right, honeydew, white, honeydew);
+}
+
+.box-container {
+    padding: 10%;
+    text-align: left;
+    /* background-color: grey; */
+    width: 50%;
+    margin-left: 18%
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20%; */
+    /* background-color: grey; */
+}
+

@@ -1,0 +1,8 @@
+<Link className="link" to="/register">
+    <Register />
+</Link>
+
+.link {
+    font-weight: 700;
+    text-decoration: none;
+}
